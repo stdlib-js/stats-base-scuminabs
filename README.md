@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import scuminabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-scuminabs@deno/mod.js';
+import scuminabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-scuminabs@v0.2.0-deno/mod.js';
 ```
 
 #### scuminabs( N, x, strideX, y, strideY )
@@ -159,7 +159,7 @@ scuminabs.ndarray( 4, x, 2, 1, y, -1, y.length-1 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
 import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@deno/mod.js';
-import scuminabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-scuminabs@deno/mod.js';
+import scuminabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-scuminabs@v0.2.0-deno/mod.js';
 
 var y;
 var x;
