@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-17)
+## Unreleased (2025-03-17)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`44f6d3a`](https://github.com/stdlib-js/stdlib/commit/44f6d3a8bc68bbdd46bef336268151a883ff5476) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`e02cd5b`](https://github.com/stdlib-js/stdlib/commit/e02cd5b702b95f4323bef320a64c4d6ed2583b1c) - **feat:** add C ndarray interface and refactor implementation for `stats/base/scuminabs` [(#4698)](https://github.com/stdlib-js/stdlib/pull/4698) _(by Aayush Khanna, Athan Reines)_
 -   [`fd335df`](https://github.com/stdlib-js/stdlib/commit/fd335dfa566f1b68f4561474aedd775270fb9fad) - **docs:** fix grammar typo in `stats/base/*` [(#4780)](https://github.com/stdlib-js/stdlib/pull/4780) _(by Aayush Khanna, stdlib-bot)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
